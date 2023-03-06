@@ -29,6 +29,7 @@ namespace OpenTkSim
         int elementBufferObject;
 
         Shader shader;
+        Camera camera;
 
 
         //settings for the game
